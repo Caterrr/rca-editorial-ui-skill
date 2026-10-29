@@ -1,0 +1,4 @@
+interface:
+  display_name: "RCA-inspired Editorial UI"
+  short_description: "Editorial grids, monochrome layouts and restrained motion"
+  default_prompt: "Use $rca-editorial-ui to design a spacious editorial website from my content."
